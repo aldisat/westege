@@ -2,7 +2,7 @@
 
 ## 1. Information Gathering
 
-| No | Kode WSTG | Test | Kategori |
+| Kode WSTG | Test | Kategori |
 |---|---|---|
 | WSTG-INFO-01 | Conduct Search Engine Discovery Reconnaissance for Information Leakage | Semi-manual |
 | WSTG-INFO-02 | Fingerprint Web Server | **Automatable** |
