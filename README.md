@@ -2,7 +2,10 @@
 
 # WSTG Automation Matrix
 
-Legend: **Automatable** = bisa full pipeline | **Semi-manual** = tools nemu kandidat, verify manual | **Manual** = butuh analisis/logic manual
+Legend: 
+**Automatable** = bisa full pipeline 
+**Semi-manual** = tools nemu kandidat, verify manual
+**Manual** = butuh analisis/logic manual
 
 | No | Kode WSTG | Test | Kategori |
 |---|---|---|---|
