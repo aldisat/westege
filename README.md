@@ -1,6 +1,6 @@
 # westege
 
-## 01. Information Gathering
+## 1. Information Gathering
 
 | No | Kode WSTG | Test | Kategori |
 |---|---|---|---|
