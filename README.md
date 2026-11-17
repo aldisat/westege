@@ -6,7 +6,7 @@
 |---|---|---|
 | WSTG-INFO-01 | Conduct Search Engine Discovery Reconnaissance for Information Leakage | Semi-manual |
 | WSTG-INFO-02 | Fingerprint Web Server | **Automatable** |
-| WSTG-INFO-03 | Review Webserver Metafiles for Information Leakage | **Automatable** |
+| WSTG-INFO-03 | Review Webserver Metafiles for Information Leakage | Semi-manual |
 | WSTG-INFO-04 | Enumerate Applications on Webserver | **Automatable** |
 | WSTG-INFO-05 | Review Web Page Content for Information Leakage | **Automatable** |
 | WSTG-INFO-06 | Identify Application Entry Points | **Automatable** |
