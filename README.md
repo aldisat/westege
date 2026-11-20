@@ -10,7 +10,7 @@
 | WSTG-INFO-04 | Enumerate Applications on Webserver | **Automatable** |
 | WSTG-INFO-05 | Review Web Page Content for Information Leakage | Burpsuite |
 | WSTG-INFO-06 | Identify Application Entry Points | Burpsuite |
-| WSTG-INFO-07 | Map Execution Paths Through Application | Semi-manual |
+| WSTG-INFO-07 | Map Execution Paths Through Application | Burpsuite |
 | WSTG-INFO-08 | Fingerprint Web Application Framework | **Automatable** |
 | WSTG-INFO-09 | Fingerprint Web Application | **Automatable** |
 | WSTG-INFO-10 | Fingerprint Web Application | Manual |
