@@ -12,5 +12,5 @@
 | WSTG-INFO-06 | Identify Application Entry Points | Burpsuite |
 | WSTG-INFO-07 | Map Execution Paths Through Application | Burpsuite |
 | WSTG-INFO-08 | Fingerprint Web Application Framework | **Automatable** |
-| WSTG-INFO-09 | Fingerprint Web Application | **Automatable** |
+| WSTG-INFO-09 | Fingerprint Web Application | N/A |
 | WSTG-INFO-10 | Fingerprint Web Application | Manual |
