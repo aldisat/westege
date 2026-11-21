@@ -13,4 +13,4 @@
 | WSTG-INFO-07 | Map Execution Paths Through Application | Burpsuite |
 | WSTG-INFO-08 | Fingerprint Web Application Framework | **Automatable** |
 | WSTG-INFO-09 | Fingerprint Web Application | N/A |
-| WSTG-INFO-10 | Fingerprint Web Application | Manual |
+| WSTG-INFO-10 | Map Application Architecture | Manual |
